@@ -19,7 +19,6 @@ N = int(input("Enter the number of pulls: "))
 # No. of characters pulled
 L = [0,0,0]
 
-
 # Base cumulative probabilities
 P = [0,0,0]
 P[0] = 0.01
